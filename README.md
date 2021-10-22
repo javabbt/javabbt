@@ -5,7 +5,8 @@
 ## Hey! 👋
 I'm Yannick, a 22 years old Android developer from Germany.
 
-- 🧭 Founder at [@GCTV](https://play.google.com/store/apps/details?id=infos.generationchange.gctv) and [@wesocialnetwork](https://play.google.com/store/apps/details?          id=picstar.kimbogames.picstar)
+- 🧭 Founder at [@GCTV](https://play.google.com/store/apps/details?id=infos.generationchange.gctv) 
+- and [@wesocialnetwork](https://play.google.com/store/apps/details?id=picstar.kimbogames.picstar)
 
 - 👥 Core team member at [@wesocialnetwork]
 
