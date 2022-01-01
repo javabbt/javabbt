@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Yannick, a 23 years old developer from France.
+I'm Yannick, a 23 years old Software developer from France.
 
 - 👥 Core team member at [@appsolute]
 
