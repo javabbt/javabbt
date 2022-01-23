@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Yannick, a 23 years old Software developer from France.
 
-- 👥 Core team member at [@appsolute]
+- 👥 software developer at [@appsolute]
 
 ## Skills
 - 👨‍💻 Kotlin, Java, Python , C++
