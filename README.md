@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Yannick, a Software developer living in France.
 
-- 👥 software developer at [@appsolute]
+- 👥 Android Engineer at [@Treatwell]
 
 ## Skills
 - 👨‍💻 Kotlin, Java, Python , C++
