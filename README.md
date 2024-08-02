@@ -15,5 +15,5 @@ I'm Yannick, a Software developer living in France.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [@YannickLoic1](https://twitter.com/YannickLoic1) on Twitter
+- [@YannickNyami](https://twitter.com/YannickNyami) on Twitter
 - [@YannickLoic1](https://www.instagram.com/loicny/) on Instagram
