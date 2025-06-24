@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Yannick, a Software developer living in France.
 
-- 👥 Android Engineer at [@Treatwell]
+- 👥 Senior software Engineer at [@Leboncoin]
 
 ## Skills
 - 👨‍💻 Kotlin, Java, Python , C++
